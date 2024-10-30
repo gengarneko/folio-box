@@ -335,56 +335,6 @@ export default class ProjectsSection
                     { type: 'cssda', x: 7.2, y: 4.15 }
                 ]
             },
-            // {
-            //     name: 'gleecChat',
-            //     imageSources:
-            //     [
-            //         './models/projects/gleecChat/slideA.jpg',
-            //         './models/projects/gleecChat/slideB.jpg',
-            //         './models/projects/gleecChat/slideC.jpg',
-            //         './models/projects/gleecChat/slideD.jpg'
-            //     ],
-            //     floorTexture: this.resources.items.projectsGleecChatFloorTexture,
-            //     link:
-            //     {
-            //         href: 'http://gleec.imm-g-prod.com',
-            //         x: - 4.8,
-            //         y: - 3.4,
-            //         halfExtents:
-            //         {
-            //             x: 3.2,
-            //             y: 1.5
-            //         }
-            //     },
-            //     distinctions:
-            //     [
-            //         { type: 'awwwards', x: 3.95, y: 4.15 },
-            //         { type: 'fwa', x: 5.6, y: 4.15 },
-            //         { type: 'cssda', x: 7.2, y: 4.15 }
-            //     ]
-            // },
-            // {
-            //     name: 'keppler',
-            //     imageSources:
-            //     [
-            //         './models/projects/keppler/slideA.jpg',
-            //         './models/projects/keppler/slideB.jpg',
-            //         './models/projects/keppler/slideC.jpg'
-            //     ],
-            //     floorTexture: this.resources.items.projectsKepplerFloorTexture,
-            //     link:
-            //     {
-            //         href: 'https://brunosimon.github.io/keppler/',
-            //         x: 2.75,
-            //         y: - 1.1,
-            //         halfExtents:
-            //         {
-            //             x: 3.2,
-            //             y: 1.5
-            //         }
-            //     },
-            //     distinctions: []
-            // }
         ]
     }
 

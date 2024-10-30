@@ -89,19 +89,19 @@ export default class InformationSection
         // Options
         this.links.options = [
             {
-                href: 'https://twitter.com/bruno_simon/',
+                href: 'https://twitter.com/gengar_neko_/',
                 labelTexture: this.resources.items.informationContactTwitterLabelTexture
             },
             {
-                href: 'https://github.com/brunosimon/',
+                href: 'https://github.com/gengarneko/',
                 labelTexture: this.resources.items.informationContactGithubLabelTexture
             },
             {
-                href: 'https://www.linkedin.com/in/simonbruno77/',
+                href: 'https://www.linkedin.com/in/GengarNeko/',
                 labelTexture: this.resources.items.informationContactLinkedinLabelTexture
             },
             {
-                href: 'mailto:simon.bruno.77@gmail.com',
+                href: '2234763217@qq.com',
                 labelTexture: this.resources.items.informationContactMailLabelTexture
             }
         ]
